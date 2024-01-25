@@ -17,6 +17,9 @@
       },
       "api": {
         "demoproject2": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
